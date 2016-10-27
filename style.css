@@ -7,6 +7,12 @@ body{
   overflow-x: hidden;
   overflow-y: hidden;
   font-family: 'Open Sans', sans-serif;
+}
+
+p{
+  padding:0%;
+  margin:0%;
+  text-align:center;
   animation: fadein 2s;
     -moz-animation: fadein 2s; /* Firefox */
     -webkit-animation: fadein 2s; /* Safari and Chrome */
@@ -44,12 +50,6 @@ body{
         opacity: 1;
     }
 }
-}
-
-p{
-  padding:0%;
-  margin:0%;
-  text-align:center;
 }
 #percentdays{
   font-size:4em;
