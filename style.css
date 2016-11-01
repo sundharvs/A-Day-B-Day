@@ -13,10 +13,10 @@ p{
   padding:0%;
   margin:0%;
   text-align:center;
-  animation: fadein 12s;
-    -moz-animation: fadein 12s; /* Firefox */
-    -webkit-animation: fadein 12s; /* Safari and Chrome */
-    -o-animation: fadein 12s; /* Opera */
+  animation: fadein 10s;
+    -moz-animation: fadein 10s; /* Firefox */
+    -webkit-animation: fadein 10s; /* Safari and Chrome */
+    -o-animation: fadein 10s; /* Opera */
 }
 @keyframes fadein {
     from {
